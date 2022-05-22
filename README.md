@@ -53,4 +53,7 @@
  <li>Small</li>
  <li>XXL</li>
 </ol><br>
-![Bootstrap](/assets/bootstrap.png)
+
+<h2>Para ejecutar localmente clona el repositorio y ejecuta en tu editor de codigo.</h2>
+
+
